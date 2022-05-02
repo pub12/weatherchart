@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "weatherchart"
-version = "0.1.1"
+version = "1.0.6"
 description = "Generate chart image based on 7 day forecast form a given location"
 authors = ["pub12 <pubudu79@gmail.com>"]
 license = "MIT"
